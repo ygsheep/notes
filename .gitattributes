@@ -1,0 +1,8 @@
+PDF/desktop.ini filter=lfs diff=lfs merge=lfs -text
+PDF/计算机发展史.pdf filter=lfs diff=lfs merge=lfs -text
+PDF/C++[[:space:]]Primer[[:space:]]plus第6版（中文版）.pdf filter=lfs diff=lfs merge=lfs -text
+PDF/C++程序设计语言.第4部分+标准库.原书第4版.pdf filter=lfs diff=lfs merge=lfs -text
+PDF/Effective[[:space:]]C++[[:space:]]中文版第三版.pdf filter=lfs diff=lfs merge=lfs -text
+PDF/STL源码剖析.pdf filter=lfs diff=lfs merge=lfs -text
+PDF/The[[:space:]]C++程序设计语言.第1～3部分.原书第4版.pdf filter=lfs diff=lfs merge=lfs -text
+PDF/cppreference-zh-20231001.chm filter=lfs diff=lfs merge=lfs -text
