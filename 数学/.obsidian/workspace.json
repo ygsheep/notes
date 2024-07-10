@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "585c38f66ab71093",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e6fe8a6f13efe1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e107b6052ee58ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c98461c0b0e9d7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e62f3029a66dbd34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf7a6aa2a6f6219f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76b9727e71ffaa70",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c52251799b10c583",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213.5
+  },
+  "right": {
+    "id": "35d0efd7edb667c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "79576ed3a8d93534",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c5002fccd84fe74",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a70d7d5c6cc98e5b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "944f3a4a81219c37",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3622d3a4d725bb63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "bf7a6aa2a6f6219f",
+  "lastOpenFiles": [
+    "线性代数",
+    "微积分",
+    "数论",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}

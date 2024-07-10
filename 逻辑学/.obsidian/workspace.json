@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "1d179fb6a58f535f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4e56c3853bbf875",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5197e315e43d2fc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b64a22bddddff787",
+    "type": "split",
+    "children": [
+      {
+        "id": "efe67e11b3fe617d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db6bbd26688d2860",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8c9b419624af3213",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6db8c623586b4764",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "08ca9ec48348f08c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa50f0a15495dfcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0865d4f32739ff2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07aee1ab581fcc17",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7eafdfa84303e292",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2b5ff42fe77b5343",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "f5197e315e43d2fc",
+  "lastOpenFiles": [
+    "~~$自然演绎逻辑导论 - 陈晓平.pdf",
+    "自然演绎逻辑导论 - 陈晓平.pdf",
+    "符号逻辑导论.md",
+    "2024-07-04.md",
+    "未命名.canvas"
+  ]
+}
