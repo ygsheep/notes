@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c4e56c3853bbf875",
+        "id": "5aebc8917b58d5ae",
         "type": "tabs",
         "children": [
           {
-            "id": "f5197e315e43d2fc",
+            "id": "5eef66e97f0d9aa6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "符号逻辑导论.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 230.50260543823242
   },
   "right": {
     "id": "08ca9ec48348f08c",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "符号逻辑导论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "符号逻辑导论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "符号逻辑导论.md"
+              }
             }
           }
         ]
@@ -138,11 +146,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f5197e315e43d2fc",
+  "active": "db6bbd26688d2860",
   "lastOpenFiles": [
-    "~~$自然演绎逻辑导论 - 陈晓平.pdf",
     "自然演绎逻辑导论 - 陈晓平.pdf",
     "符号逻辑导论.md",
+    "~~$自然演绎逻辑导论 - 陈晓平.pdf",
     "2024-07-04.md",
     "未命名.canvas"
   ]
